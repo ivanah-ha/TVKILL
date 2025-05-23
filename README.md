@@ -31,4 +31,4 @@ Take a short look at our [contributing guidelines](https://github.com/42SK/TVKIL
 This application is free (and open source) software.  
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html  
 Copyright 2015-2018 Sebastian Kappes  
-Copyright 2018 Jonas Lochmann
+Copyright 2018 Jonas Lochma
